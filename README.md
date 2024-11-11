@@ -75,7 +75,6 @@ To get a local copy of this project up and running, follow these steps.
 | ![Home Screen (empty)](./screenshots/homescreen1.png) | ![New Note Screen ](./screenshots/new_note_screen1.png) | ![Note Details](./screenshots/note_detail.png) |
 | ![Home Screen (populated)](./screenshots/homescreen2.png) | ![New Note Screen (color picker)](./screenshots/new_note_screen2.png) | ![Delete](./screenshots/delete.png) |
 
-> **Note:** Add screenshots in the `screenshots` folder within your project directory.
 
 ## Project Structure
 
